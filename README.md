@@ -4,10 +4,10 @@ I work where AI systems, human–computer interaction, and media theory meet: ho
 
 Things I've built:
 
-- A paper (under review) on attacking a planner → worker → judge pipeline through three channels. The judge caught instruction injection almost every time and never caught evidence poisoning. When it revised the output under poisoning, it wrote the poison in itself.
+- [When the Judge Intervenes](https://www.shreyan.xyz/research/when-the-judge-intervenes) (Under Review): a paper on attacking a planner → worker → judge pipeline through three channels.
 - [Experiments with Bijaz](https://experiments.shreyan.xyz/): 14 experiments on a minimal agent I built, six on single-agent behavior and eight on a multi-agent pipeline under fault injection. 2,200+ runs across two model families.
 - [Essay Atlas](https://shreyan.xyz/atlas): an LLM-drawn map of my essays that shows recurring themes, contradictions, and ideas I haven't written yet.
-- [ice](https://apps.apple.com/us/app/ice-your-dms-but-better/id6742675739): an anonymous iOS chat app where every conversation expires in three minutes. 8,000+ users.
+- [ice](https://apps.apple.com/us/app/ice-your-dms-but-better/id6742675739): a consumer social app built around the constraints of anonymity and ephemerality.
 
 I also write essays on interface design, media theory, and social behavior at [notes on product & culture](https://shreyanbudhouliya.substack.com/).
 
